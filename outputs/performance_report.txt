@@ -1,0 +1,19 @@
+Model Performance Report - 2025-07-22 10:51:52
+==================================================
+
+Confusion Matrix:
+[[197   7]
+ [ 35 162]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       0.85      0.97      0.90       204
+        True       0.96      0.82      0.89       197
+
+    accuracy                           0.90       401
+   macro avg       0.90      0.89      0.89       401
+weighted avg       0.90      0.90      0.89       401
+
+
+Model trained on 401 samples with 1055 features.
